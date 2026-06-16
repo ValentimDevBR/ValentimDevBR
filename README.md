@@ -1,4 +1,4 @@
-## Olá! Eu sou o ValentimDevBR 👋
+## Olá! Me chamo José Rafael 👋
 
 - 🔭 Estou procurando meu primeiro estágio.
 - 🌱 Estudando JavaScript, HTML e CSS
