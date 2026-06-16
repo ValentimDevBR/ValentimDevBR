@@ -1,4 +1,4 @@
-## Olá! Me chamo José Rafael 👋
+## Olá! Me chamo José R. Valentim 👋
 
 - 🔭 Estou procurando meu primeiro estágio.
 - 🌱 Estudando JavaScript, HTML e CSS
