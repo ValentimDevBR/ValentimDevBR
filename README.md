@@ -1,27 +1,37 @@
-## Olá! Me chamo José R. Valentim 👋
+# Hi there, I'm José R. Valentim 👋
 
-- 🔭 Estou procurando meu primeiro estágio.
-- 🌱 Estudando JavaScript, HTML e CSS
-- 📫 Contate-me no e-mail: valentimfps@gmail.com
+### 🚀 Aspiring Front-End Developer | Seeking Internship Opportunities
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JOSE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JOSE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JOSE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JOSE-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href= "mailto:valentimfps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+I am a passionate technology enthusiast focused on Web Development. Currently building solid foundations in modern Web Technologies through **The Odin Project** and hands-on projects.
 
-<div> 
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentimdevbr&layout=compact" />
+- 🔭 **Looking for:** Front-End / Web Development Internship
+- 🌱 **Currently learning:** JavaScript (ES6+), Modern HTML5 & CSS3, Git & GitHub
+- 💬 **Ask me about:** HTML/CSS layouting, Git flow, and Web Basics
+- 📫 **How to reach me:** [valentimfps@gmail.com](mailto:valentimfps@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🌐 Connect with Me
+
+<a href="mailto:valentimfps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentimdevbr&layout=compact&theme=radical" />
 </div>
