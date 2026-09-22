@@ -24,7 +24,7 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
+  <img alt="Rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="VS Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </div>
@@ -45,6 +45,6 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical&count_private=true" alt="José's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentimdevbr&theme=radical&layout=compact" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" alt="José's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=valentimdevbr&theme=radical&layout=compact" alt="Top Languages" />
 </div>
