@@ -1,50 +1,142 @@
-# Hi, I'm José R. Valentim 👋
+# 👨🏻‍💻 José R. Valentim
 
-### Software Analysis & Development Graduate | Front-End Developer
+**`Front-End Developer`**
 
-Recent graduate in Systems Analysis and Development (ADS) focused on building modern, scalable web applications. 
+My name is José R. Valentim, and I am a recent graduate in Systems Analysis and Development (ADS). I am passionate about technology and web development, focused on building modern, responsive, and scalable applications. Currently, I am deepening my knowledge in the Web stack while exploring languages such as Rust, Python, TypeScript, and SQL. I am actively looking for an internship or junior developer role to apply my skills and contribute to real-world projects.
 
-- 🎓 **Education:** Degree in Systems Analysis and Development (ADS)
-- 🔭 **Looking for:** Front-End / Web Development Internship or Junior Roles
-- 🌱 **Currently learning:** Rust | Python | TypeScript | React | SQL
-- 📫 **Email:** [valentimfps@gmail.com](mailto:valentimfps@gmail.com)
+<p align="left">
+    <a href="https://github.com/valentimdevbr?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total Stars" 
+            title="Total GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/valentimdevbr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
+    <a href="https://github.com/valentimdevbr?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/valentimdevbr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+    <a href="mailto:josevalentimcorreap@gmail.com">
+        <img 
+            alt="Email Contact" 
+            title="Send an email" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=mention&logoColor=white&label=Email"
+        />
+    </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🤖 Languages and Technologies
 
-HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | GitHub | VS Code
+HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | GitHub
 
-<br>
+<br/>
 
-<div align="left">
-  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Rust" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Rust" 
+    title="Rust"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL / PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Stats and Most Used Languages
 
 <p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.host/api?username=valentimdevbr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="190" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=valentimdevbr&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
   <img 
     align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.host/api/top-langs/?username=valentimdevbr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Most Used Languages" 
+    height="190" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=valentimdevbr&theme=tokyonight&layout=compact&custom_title=Language%20Percentage&langs_count=8" 
   />
 </p>
 <br clear="all">
@@ -53,9 +145,9 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
 
 ### 🌐 Connect with Me
 
-<div align="left">
-  <a href="mailto:valentimfps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
+<p align="left">
+  <a href="mailto:josevalentimcorreap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-rafael-valentim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/721653783330947132" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jose.rafael33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
