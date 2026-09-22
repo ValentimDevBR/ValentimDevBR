@@ -2,7 +2,7 @@
 
 ### Software Analysis & Development Graduate | Front-End Developer
 
-Recent graduate in Systems Analysis and Development (ADS) focused on building modern, scalable web applications. Currently deepening my software engineering foundation through **The Odin Project** and hands-on projects.
+Recent graduate in Systems Analysis and Development (ADS) focused on building modern, scalable web application projects. 
 
 - 🎓 **Education:** Degree in Systems Analysis and Development (ADS)
 - 🔭 **Looking for:** Front-End / Web Development Internship or Junior Roles
@@ -45,6 +45,6 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" alt="José's GitHub stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=valentimdevbr&theme=radical&layout=compact" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentimdevbr&layout=compact&theme=radical" />
 </div>
