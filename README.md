@@ -44,7 +44,7 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentimdevbr&layout=compact&theme=radical" />
+<div> 
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=valentimdevbr&show_icons=true&theme=radical" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentimdevbr&layout=compact" />
 </div>
