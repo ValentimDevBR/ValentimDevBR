@@ -5,6 +5,13 @@
 My name is José R. Valentim, and I am a recent graduate in Systems Analysis and Development (ADS). I am passionate about technology and web development, focused on building modern, responsive, and scalable applications. Currently, I am deepening my knowledge in the Web stack while exploring languages such as Rust, Python, TypeScript, and SQL. I am actively looking for an internship or junior developer role to apply my skills and contribute to real-world projects.
 
 <p align="left">
+    <a href="https://sacratraditio.com" target="_blank">
+        <img 
+            alt="Live Website" 
+            title="Visit Sacra Traditio" 
+            src="https://custom-icon-badges.demolab.com/badge/Website-Sacra_Traditio-0077B5?style=for-the-badge&logo=globe&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/valentimdevbr?tab=repositories&sort=stargazers">
         <img 
             alt="Total Stars" 
@@ -32,7 +39,7 @@ My name is José R. Valentim, and I am a recent graduate in Systems Analysis and
 
 ### 🤖 Languages and Technologies
 
-HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | GitHub
+HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | GitHub | VS Code
 
 <br/>
 
@@ -116,6 +123,14 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -143,9 +158,10 @@ HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | Git
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me & Portfolio
 
 <p align="left">
+  <a href="https://sacratraditio.com" target="_blank"><img src="https://img.shields.io/badge/Live_Project-Sacra_Traditio-008080?style=for-the-badge&logo=globe&logoColor=white" /></a>
   <a href="mailto:josevalentimcorreap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-rafael-valentim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/721653783330947132" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
