@@ -2,7 +2,7 @@
 
 **`Front-End Developer`**
 
-My name is José R. Valentim, and I am a recent graduate in Systems Analysis and Development (ADS). I am passionate about technology and web development, focused on building modern, responsive, and scalable applications. Currently, I am deepening my knowledge in the Web stack while exploring languages such as Rust, Python, TypeScript, and SQL. I am actively looking for an internship or junior developer role to apply my skills and contribute to real-world projects.
+My name is José R. Valentim, and I am a recent graduate in Systems Analysis and Development (ADS). I am passionate about technology and web development, focused on building modern, responsive, and scalable applications. Currently, I am deepening my knowledge in the Web stack while exploring languages such as Rust, Python, TypeScript, and SQL. I am also exploring Rust in my spare time. I am actively looking for an internship or junior developer role to apply my skills and contribute to real-world projects.
 
 <p align="left">
     <a href="https://sacratraditio.com" target="_blank">
