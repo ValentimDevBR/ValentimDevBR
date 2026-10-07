@@ -39,7 +39,7 @@ My name is José R. Valentim, and I am a recent graduate in Systems Analysis and
 
 ### 🤖 Languages and Technologies
 
-HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | GitHub | VS Code
+HTML5 | CSS3 | JavaScript | React | TypeScript | Python | Rust | SQL | Git | GitHub |
 
 <br/>
 
